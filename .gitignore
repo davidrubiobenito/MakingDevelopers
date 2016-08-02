@@ -1,0 +1,15 @@
+### Node template
+# Dependency directories
+node_modules
+node_module/
+node_module/*
+
+### JetBrains template
+.idea
+.idea/
+.idea/*
+
+# Archivos logs
+logs
+logs/
+logs/*
